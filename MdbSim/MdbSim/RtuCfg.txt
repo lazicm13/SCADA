@@ -1,0 +1,6 @@
+STA 13
+TCP 502
+
+DO_REG  1 2000  0  0      1     1  DO  @Ventil1
+DO_REG  3 3000  0  0      1     0  DO  @Izlazi
+HR_INT  1 1000  0  0   1000   500  AO  @Rezervoar

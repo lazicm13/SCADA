@@ -1,0 +1,9 @@
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Modbus\obj\Debug\Modbus.pdb

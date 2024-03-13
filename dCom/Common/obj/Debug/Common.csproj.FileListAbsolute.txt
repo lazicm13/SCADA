@@ -1,0 +1,11 @@
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\bin\Debug\Common.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\bin\Debug\Common.pdb
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\obj\Debug\Common.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\obj\Debug\Common.pdb
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Common\bin\Debug\Common.dll
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Common\bin\Debug\Common.pdb
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Common\obj\Debug\Common.dll
+C:\Users\HP EliteBook 840-G2\Desktop\Faks\3. GODINA\Akviziciono upravljacki sistemi\scada materijali\dCom\Common\obj\Debug\Common.pdb
